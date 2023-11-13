@@ -10,7 +10,8 @@ Python libraries: Pandas, Zipfile, and Kaggle(api).
 Done a quick data cleaning: renamed columns, mapped seasons and weather to text values.  
   
 ### Dashboard in Tableau 
-[link to Tableau Public](https://public.tableau.com/app/profile/diana.shatkovska/viz/London-Bike-Rides-Dashboard/Dashboard?publish=yes)
+[link to Tableau Public](https://public.tableau.com/app/profile/diana.shatkovska/viz/London-Bike-Rides-Dashboard/Dashboard?publish=yes)  
+
 ![dashboard-screenshot](dashboard-screenshot.png)
 
 On dashboard:
