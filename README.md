@@ -7,9 +7,9 @@ Small study data viz project done along with [the walkthrough video on YouTube b
 
 This project is done with Python and Tableau.  
 Python libraries: Pandas, Zipfile, and Kaggle(api).  
-Done a quick data cleaning: renamed columns, mapped seasons and weather to text values.  
+Done a quick data cleaning: renamed columns, mapped seasons and weather to string values.  
   
-### Dashboard in Tableau 
+### Dashboard 
 [link to Tableau Public](https://public.tableau.com/app/profile/diana.shatkovska/viz/London-Bike-Rides-Dashboard/Dashboard?publish=yes)  
 
 ![dashboard-screenshot](dashboard-screenshot.png)
@@ -22,8 +22,9 @@ On dashboard:
 On tooltips:
 - Barchart of rides count in every weather type.
 - Barchart of rides count on every hour of the day.
+
 ![dashboard-tooltips-screenshot](dashboard-tooltips-screenshot.png)
-  *(also works on heatmap cells)*
+*(also works on heatmap cells)*
 
 ### Summary
 
